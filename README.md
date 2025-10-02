@@ -8,6 +8,6 @@
 - David
 - Cristian
 - Ismael
--Angel Vicencio
+- Angel Vicencio
 
 
